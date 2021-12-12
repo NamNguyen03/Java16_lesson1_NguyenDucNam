@@ -1,0 +1,43 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>Java16_lesson1_NguyenDucNam</groupId>
+	<artifactId>Java16_lesson1_NguyenDucNam</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+	<modules>
+		<module>Java16_lesson1_NguyenDucNam.Share</module>
+		<module>Java16_lesson1_NguyenDucNam.Exercise01</module>
+		<module>Java16_lesson1_NguyenDucNam.Exercise02</module>
+		<module>Java16_lesson1_NguyenDucNam.Exercise03</module>
+		<module>Java16_lesson1_NguyenDucNam.Exercise04</module>
+		<module>Java16_lesson1_NguyenDucNam.Exercise05</module>
+		<module>Java16_lesson1_NguyenDucNam.Exercise06</module>
+		<module>Java16_lesson1_NguyenDucNam.Exercise07</module>
+		<module>Java16_lesson1_NguyenDucNam.Exercise08</module>
+		<module>Java16_lesson1_NguyenDucNam.Exercise09</module>
+		<module>Java16_lesson1_NguyenDucNam.Exercise10</module>
+		<module>Java16_lesson1_NguyenDucNam.Exercise11</module>
+		<module>Java16_lesson1_NguyenDucNam.Exercise12</module>
+		<module>Java16_lesson1_NguyenDucNam.Exercise13</module>
+		<module>Java16_lesson1_NguyenDucNam.Exercise14</module>
+		<module>Java16_lesson1_NguyenDucNam.Exercise15</module>
+		<module>Java16_lesson1_NguyenDucNam.Exercise16</module>
+		<module>Java16_lesson1_NguyenDucNam.Exercise17</module>
+		<module>Java16_lesson1_NguyenDucNam.Exercise18</module>
+		<module>Java16_lesson1_NguyenDucNam.Exercise19</module>
+		<module>Java16_lesson1_NguyenDucNam.Exercise20</module>
+		<module>Java16_lesson1_NguyenDucNam.Exercise21</module>
+		<module>Java16_lesson1_NguyenDucNam.Exercise22</module>
+	</modules>
+	<dependencies>
+		<!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<version>1.18.20</version>
+			<scope>provided</scope>
+		</dependency>
+	</dependencies>
+</project>
